@@ -14,3 +14,6 @@ Fortran's built-in `matmul` intrinsic.
 
 3.) TimeDilation.f90:
 This program demonstrates time dilation in Special Relativity by computing Earth-observed time from a traveler’s proper time at near-light speeds.
+
+4.) ForwardDifferenceApproximation.f90:
+This program demonstrates Forward Difference Approximation. A numerical method used to estimate the derivative of a function by comparing the function’s values at a point and a slightly increased value of the input, dividing their difference by the step size.

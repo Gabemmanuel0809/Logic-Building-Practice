@@ -1,7 +1,6 @@
 # Logic-Building-Practice
 
-This repository contains small, focused Fortran programs that demonstrate
-fundamental concepts in scientific and numerical computing.
+This repository contains small, self-contained Fortran programs used to practice core programming logic, clear variable naming, and structured program design. Each example focuses on implementing a single concept or calculation cleanly and correctly. Some programs demonstrate basic numerical or scientific ideas, while others apply mathematical or physical formulas to reinforce precision and clarity in computation. The goal of this repository is skill development and reasoning practice, rather than advanced numerical methods or large-scale scientific simulation.
 
 ## Programs included
 

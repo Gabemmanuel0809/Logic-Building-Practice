@@ -11,3 +11,6 @@ intensity models.
 2.) MatrixMultiplication.f90:
 Performs manual matrix multiplication using nested loops and compares it with
 Fortran's built-in `matmul` intrinsic.
+
+3.) TimeDilation.f90:
+This program demonstrates time dilation in Special Relativity by computing Earth-observed time from a traveler’s proper time at near-light speeds.
